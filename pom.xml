@@ -29,6 +29,11 @@
 			<artifactId>scaloid_2.10</artifactId>
 			<version>2.4-8</version>
 		</dependency>
+    <dependency>
+      <groupId>com.octo.android.robospice</groupId>
+      <artifactId>robospice-ormlite</artifactId>
+      <version>1.4.9</version>
+    </dependency>
 	</dependencies>
 
 	<profiles>
